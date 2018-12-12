@@ -1,0 +1,13 @@
+{
+    "name": "rest-api-node",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "",
+    "description": "perf test",
+    "scripts": {
+        "start": "node ./main.js"
+    },
+    "dependencies": {
+        "restify": "^7.2.3"
+    }
+}
